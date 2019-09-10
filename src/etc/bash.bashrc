@@ -9,4 +9,4 @@ chmod 777 $HOME/init.sh
 $HOME/init.sh
 COMMENT
 
-cp $PREFIX/etc/.bashrc $HOME/
+cp $PREFIX/etc/init.sh $HOME/.bashrc
